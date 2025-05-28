@@ -1,4 +1,4 @@
-- [x] 👋 Hi, I’m @ghassenTn
+- [x] 👋 Hi, I’m @ghassen
 - [x] 👀 I’m interested in Python
 - [x] 🌱 I’m currently learning Data Science
 - [x] 💞️ I’m looking to collaborate on data analysis projects
